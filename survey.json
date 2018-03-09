@@ -1,12 +1,22 @@
 {
-   "Test survey": {
-      "en": {
-         "question": "Is our survey system in working condition?",
-         "answers": ["yes","no"]
-      },
-      "ru": {
-         "question": "Наша система опросов работает?",
-         "answers": ["да","нет"]
-      }
-   }
+	"Test survey": {
+		"en": [{
+				"question": "Is our survey system in working condition?",
+				"answers": ["yes", "no"]
+			},
+			{
+				"question": "Is our survey system in working condition?",
+				"answers": ["yes", "no"]
+			}
+		],
+		"ru": [{
+				"question": "Наша система опросов работает?",
+				"answers": ["да", "нет"]
+			},
+			{
+				"question": "Наша система опросов работает?",
+				"answers": ["да", "нет"]
+			}
+		]
+	}
 }
