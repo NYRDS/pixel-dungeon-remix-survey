@@ -1,23 +1,49 @@
 {
-	"survey_id": "Test survey",
-	
+	"survey_id": "2018_04_17",
+
 	"en": [{
-			"question": "Is our survey system in working condition?",
-			"answers": ["yes", "no"]
+			"question": "How do you feel about limited range of ranged weapons?",
+			"answers": ["Good idea", "Do not care", "Bad idea"]
 		},
 		{
-			"question": "Is our survey system in working condition?",
-			"answers": ["yes", "no"]
+			"question": "How do you feel about finding few real Dogecoins in our Dungeon on very rare occasions?",
+			"answers": ["It will be great!", "It will ruin the game", "Doge-what???"]
+		},
+		{
+			"question": "Do you want IO-like arena multiplayer (such as diep.io)?",
+			"answers": ["Yes", "No", "Do not care"]
+		},
+		{
+			"question": "How about limit maximum amount of containers Hero can carry around at same time to say 3?",
+			"answers": ["Nice idea", "Don't do it", "Do not care"]
+		},
+		{
+			"question": "Do you want Craft instead Scrolls of Upgrade?",
+			"answers": ["Yes! Craft!", "No! Scrolls are better", "Do not care"]
 		}
+
+
 	],
-	
+
 	"ru": [{
-			"question": "Наша система опросов работает?",
-			"answers": ["да", "нет"]
+			"question": "Что вы думаете об ограничении дальности для дальнобойного оружия?",
+			"answers": ["Хорошая мысль", "Все равно", "Плохая мысль"]
 		},
 		{
-			"question": "Наша система опросов работает?",
-			"answers": ["да", "нет"]
+			"question": "Возможоность очень очень редко найти несколько настоящих Dogecoin в нащем подземелье это:",
+			"answers": ["Здорово!", "Испортит игру", "Doge-что???"]
+		},
+		{
+			"question": "Вы хотите многопоользовательскую IO арену (как diep.io к примеру)?",
+			"answers": ["Да", "Нет", "Всё равно"]
+		},
+		{
+			"question": "Вы хотите замены механики Свитков Улучшения на Крафт?",
+			"answers": ["Да! Крафт!", "Нет! Свитки лучше", "Мне всё равно"]
+		},
+		{
+			"question": "Что вы думаете о том чтобы ограничить количество одновременно носимых контейнеров скажем 3мя?",
+			"answers": ["Хорошая мысль", "Не делайте так", "Все равно"]
 		}
 	]
 }
